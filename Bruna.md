@@ -1,4 +1,4 @@
-# Registro de Atividades - Bruna (Product Owner & Desenvolvedora)
+# Bruna (Product Owner & Desenvolvedora)
 
 Este documento descreve as atividades e contribuições realizadas por mim para o projeto **Cachoeira Tracker**.
 
